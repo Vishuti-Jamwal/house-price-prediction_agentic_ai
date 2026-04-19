@@ -348,6 +348,3 @@ This repository is intended for academic use in the house price prediction and a
 ## Features
 
 - House price prediction using machine learning
-- AI-powered recommendation workflow
-- Interactive prediction interface
-- Data preprocessing and model evaluation
