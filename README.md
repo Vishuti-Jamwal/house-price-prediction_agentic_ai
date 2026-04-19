@@ -343,3 +343,7 @@ python rag/build_knowledge_base.py
 ## 📄 License
 
 This repository is intended for academic use in the house price prediction and agentic real estate advisory project.
+## Updates
+
+- Improved project documentation
+- Added additional project explanations
